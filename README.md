@@ -60,6 +60,8 @@
   <li><strong>Dr. Tamanna Anwar</strong> – Director and Cofounder, Centre of Bioinformatics Research and Technology</li>
   <li><strong>Dr. Indra Mani</strong>-  Assistant Professor of Microbiology, Gargi College, University of Delhi, India</li>
   <li><strong>Dr. Vijay Khonde</strong>- Senior Staff Scientist, Praj Industries, Pune, Maharashtra, India</li>
+<li><strong>Dr Neeraj Verma </strong>- Senior Scientist, Foresight Biotech, New Delhi, India
+</li>
   <li><strong>Prof. Dr. P. Chandrakumar</strong>- Dean of industry relations / TBI and Associate Professor,Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology.</li>
   <li><strong>Prof. Mugesh Sankaranarayanan</strong> - Professor (Research), Head- Centre for Metabolic Engineering and Synthetic Biology, Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology</li>
 </ul>
